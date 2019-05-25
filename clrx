@@ -1,835 +1,305 @@
-#EXTM3U
+﻿﻿#EXTINF:-1" tvg-logo="http://media.entutele.com/channels/big/ae-hd.gif", A&E HD (211)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=62&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Canal Claro HD
-#EXTGRP:Nacionales
-http://antondns.tk/Content/hls_kr/Live/Channel(CANAL_CLARO_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/adn-40-hd.gif", ADN 40 HD (140)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=40&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif", AMC (490)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=131&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Caracol HD
-#EXTGRP:Nacionales
-http://antondns.tk/Content/hls_kr/Live/Channel(CARACOL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc-hd.gif", AMC HD (444)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=328&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif", Animal Planet (373)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=88&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Red +
-#EXTGRP:Nacionales
-http://antondns.tk/Content/hls_kr/Live/Channel(DIA_TV_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn-hd.gif", AXN HD (213)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=64&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif", AyM Sports (576)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=180&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Canal 1
-#EXTGRP:Nacionales
-http://antondns.tk/Content/hls_kr/Live/Channel(CANAL_UNO_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif", AZ Clic HD (725)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=11&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif", AZ Corazón HD (250)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=70&format=HLSAD&f=.m3u8
 
-#EXTINF:0,City TV
-#EXTGRP:Regionales
-http://antondns.tk/Content/hls_kr/Live/Channel(CITY_TV)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif", AZ Mundo HD (276)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=84&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7-hd.gif", Azteca 7 HD (1)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=2&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Teleantioquia
-#EXTGRP:Regionales
-http://antondns.tk/Content/hls_kr/Live/Channel(TELEANTIOQUIA)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif", Bandamax (732)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=221&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif", Boomerang (324)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=115&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Telecaribe
-#EXTGRP:Regionales
-http://antondns.tk/Content/hls_kr/Live/Channel(TELECARIBE)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif", Canal de las Estrellas (102)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=17&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif", Canal de las Estrellas HD (2)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=402&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Telepacifico
-#EXTGRP:Regionales
-http://antondns.tk/Content/hls_kr/Live/Channel(TELEPACIFICO)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5.gif", Canal 5 (105)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=20&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif", Cartoon Network (320)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=112&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Canal TRO
-#EXTGRP:Regionales
-http://antondns.tk/Content/hls_kr/Live/Channel(TRO)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif", Cinecanal HD (430)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=149&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-w.gif", Cinecanal (480)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=337&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Telecafe
-#EXTGRP:Regionales
-http://antondns.tk/Content/hls_kr/Live/Channel(TELECAFE)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax.gif", Cinemax (481)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=158&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif", Comedy Central HD (217)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=340&format=HLSAD&f=.m3u8
 
-#EXTINF:0,MTV
-#EXTGRP:Musicales
-http://antondns.tk/Content/hls_kr/Live/Channel(MTV_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif", De Pelicula HD (442)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=121&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif", Discovery Channel (371)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=86&format=HLSAD&f=.m3u8
 
-#EXTINF:0,VH1 HD
-#EXTGRP:Musicales
-http://antondns.tk/Content/hls_kr/Live/Channel(VH1_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif", Discovery Civilization (382)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=99&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif", Discovery Kids (303)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=109&format=HLSAD&f=.m3u8
 
-#EXTINF:0,MTV Live HD
-#EXTGRP:Musicales
-http://antondns.tk/Content/hls_kr/Live/Channel(MTV_LIVE_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif", Discovery Science (381)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=98&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif", Discovery Theater HD (351)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=95&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Concert Channel
-#EXTGRP:Musicales
-http://antondns.tk/Content/hls_kr/Live/Channel(CONCERT_CHANNEL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif", Discovery Turbo (383)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=100&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif", Discovery World HD (356)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=101&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Me Gusta
-#EXTGRP:Musicales
-http://antondns.tk/Content/hls_kr/Live/Channel(VALLENATO)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif", Disney Channel (312)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=113&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif", Disney Jr (308)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=118&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Sin Limites
-#EXTGRP:Musicales
-http://antondns.tk/Content/hls_kr/Live/Channel(K_MUSIC)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif", Disney XD (322)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=111&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif", Distrito Comedia (272)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=78&format=HLSAD&f=.m3u8
 
-#EXTINF:0,VH1
-#EXTGRP:Musicales
-http://antondns.tk/Content/hls_kr/Live/Channel(VH1)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e-entertainment-television.gif", E! Entertainment HD (255)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=55&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://i.imgur.com/iZBhZOO.jpg", El Garage TV (269)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=75&format=HLSAD&f=.m3u8
 
-#EXTINF:0,HTV
-#EXTGRP:Musicales
-http://antondns.tk/Content/hls_kr/Live/Channel(HTV)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif", El Gourmet (268)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=74&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif", ESPN Internacional HD (558)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=168&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Radiola TV
-#EXTGRP:Musicales
-http://antondns.tk/Content/hls_kr/Live/Channel(RADIOLA)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif", ESPN 2 HD (561)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=169&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3-hd.gif", ESPN 3 HD (520)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=345&format=HLSAD&f=.m3u8
 
-#EXTINF:0,MTV Hits
-#EXTGRP:Musicales
-http://antondns.tk/Content/hls_kr/Live/Channel(MTV_HITS)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif", ESPN + HD (516)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=167&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif", Foro TV (104)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=700&format=HLSAD&f=.m3u8
 
-#EXTINF:0,VH1 Classic
-#EXTGRP:Musicales
-http://antondns.tk/Content/hls_kr/Live/Channel(VH1_CLASSIC)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif", Fox Channel (251)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=47&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif", FOX Action HD (416)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=336&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Telehit
-#EXTGRP:Musicales
-http://antondns.tk/Content/hls_kr/Live/Channel(TELEHIT)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-hd.gif", Fox HD (201)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=46&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif", Fox Life (271)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=77&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Discovery Kids
-#EXTGRP:Infantiles
-http://antondns.tk/Content/hls_kr/Live/Channel(DISCOVERY_KIDS_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif", FOX Movies HD (417)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=146&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-premium-series-hd.gif", FOX Series HD (415)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=139&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Cartoon Network
-#EXTGRP:Infantiles
-http://antondns.tk/Content/hls_kr/Live/Channel(CARTOON_NETWORK_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-hd.gif", Fox Sports HD (522)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=170&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2-hd.gif", Fox Sports 2 HD (527)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=172&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Disney Channel
-#EXTGRP:Infantiles
-http://antondns.tk/Content/hls_kr/Live/Channel(DISNEY_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-3.gif", Fox Sport 3 (178)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=178&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif", FX (258)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=56&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Nickelodeon
-#EXTGRP:Infantiles
-http://antondns.tk/Content/hls_kr/Live/Channel(NICKELODEON_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx-hd.gif", FX HD (209)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=60&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif", Gala TV (109)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=24&format=HLSAD&f=.m3u8
 
-#EXTINF:0,NatGeo Kids
-#EXTGRP:Infantiles
-http://antondns.tk/Content/hls_kr/Live/Channel(NATGEO_KIDS_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/glitz.gif", Glitz (270)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=76&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://i.imgur.com/ILh9Enp.jpg", Golf Channel Latin America (179)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=179&format=HLSAD&f=.m3u8
 
-#EXTINF:0,NatGeo Kids (Mexico)
-#EXTGRP:Infantiles
-http://antondns.tk/Content/hls_kr/Live/Channel(NATGEOKIDS_MX_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif", Golden Edge (484)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=124&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif", Golden HD (436)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=122&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Nick Jr.
-#EXTGRP:Infantiles
-http://antondns.tk/Content/hls_kr/Live/Channel(NICK_JR_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-hd.gif", History Channel HD (353)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=89&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health-hd.gif", Discovery H&H (374)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=96&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Nick 2
-#EXTGRP:Infantiles
-http://antondns.tk/Content/hls_kr/Live/Channel(NICK_2_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigacion-discovery.gif", ID (263)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=68&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/isat.gif", ISAT (495)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=135&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Disney XD
-#EXTGRP:Infantiles
-http://antondns.tk/Content/hls_kr/Live/Channel(DISNEY_XD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif", Lifetime (379)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=94&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif", Milenio TV (603)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=1252&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Disney Junior
-#EXTGRP:Infantiles
-http://antondns.tk/Content/hls_kr/Live/Channel(DISNEY_JR)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif", MTV HD (726)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=212&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif", MTV Hits (727)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=213&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Boomerang
-#EXTGRP:Infantiles
-http://antondns.tk/Content/hls_kr/Live/Channel(BOOMERANG)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live-hd.gif", MTV Live HD (701)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=211&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif", Multimedios Plus (167)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=1253&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Baby TV
-#EXTGRP:Infantiles
-http://antondns.tk/Content/hls_kr/Live/Channel(BABYTV)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif", Multimedios Monterrey (2305)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=2305&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif", National Geographic (377)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=91&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Baby TV (Mexico)
-#EXTGRP:Infantiles
-http://antondns.tk/Content/hls_kr/Live/Channel(BABYTV_MX)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="https://s18.postimg.org/i5axtgpft/NATGEO.png", Nat Geo Kids (2373)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=2373&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild-hd.gif", Nat Geo Wild HD (355)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=92&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Tooncast
-#EXTGRP:Infantiles
-http://antondns.tk/Content/hls_kr/Live/Channel(TOONCAST)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif", Nick (317)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=110&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-hd.gif", Nick HD (315)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=331&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Discovery
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif", Nick Jr (310)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=117&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://media.entutele.com/channels/big/once-tv.gif", Once TV (111)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=1942&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Discovery World HD
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(DISCOVERY_WORLD_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://i.imgur.com/soHz9Aj.jpg", Planet X HD (528)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=950&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif", Ritmoson (731)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=218&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Discovery Theater HD
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(DISCOVERY_THEATER_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony-hd.gif", Sony HD (203)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=48&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif", Space (491)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=130&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Discovery Animal Planet HD
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(ANIMAL_PLANET_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space-hd.gif", Space HD (445)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=129&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif", Studio Universal (492)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=132&format=HLSAD&f=.m3u8
 
-#EXTINF:0,History
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(HISTORY_CHANNEL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif", SyFy (257)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=59&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif", TBS Very Funny (273)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=81&format=HLSAD&f=.m3u8
 
-#EXTINF:0,H2
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(H2_HD)/Stream(01)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif", TCM (496)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=128&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/teleformula.gif", Teleformula (161)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=32&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Discovery TLC
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(TLC_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif", Telehit HD (702)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=220&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif", The Film Zone HD (440)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=138&format=HLSAD&f=.m3u8
 
-#EXTINF:0,National Geographic
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(NATGEO_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif", Tiin (325)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=114&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif", TLC (386)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=97&format=HLSAD&f=.m3u8
 
-#EXTINF:0,National Geographic (Mexico)
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(NATGEO_MX_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif", TLnovelas (275)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=83&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif", TNT (482)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=127&format=HLSAD&f=.m3u8
 
-#EXTINF:0,NatGeo Wild
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(NATGEO_WILD_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif", TNT HD (435)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=126&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif", TNT Series (266)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=71&format=HLSAD&f=.m3u8
 
-#EXTINF:0,NatGeo Wild (Mexico)
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(NATGEOWILD_MX_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif", Tooncast (328)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=108&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif", TruTV HD (215)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=79&format=HLSAD&f=.m3u8
 
-#EXTINF:0,TV Agro
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(TV_AGRO_HD)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif", TVE (651)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=198&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif", Universal Channel (256)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=58&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Discovery Science
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(DISCOVERY_SCIENCE)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif", Universal Channel HD (207)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=57&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1.gif", VH1 Classics (728)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=214&format=HLSAD&f=.m3u8
 
-#EXTINF:0,Discovery Civilization
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif", VH1 HD (703)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=334&format=HLSAD&f=.m3u8
 
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-channel.gif", Warner Channel HD (205)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=52&format=HLSAD&f=.m3u8
 
-#EXTINF:0,H2 (SD)
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(H2)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Discovery Turbo
-#EXTGRP:Culturales
-http://antondns.tk/Content/hls_kr/Live/Channel(DISCOVERY_TURBO)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Discovery Home &amp; Health
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,El Gourmet
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(GOURMET_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Mas Chic
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(MASCHIC_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Inti
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(INTI_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,TruTV
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(TRU_TV_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Hola! TV
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(HOLA_TV_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Az Mundo
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(AZMUNDO_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Az Corazon
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(AZCORAZON_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Pasiones
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(PASIONES_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Glitz
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(GLITZ)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,E!
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(E)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Lifetime
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(LIFETIME)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Canal U
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(UNICABLE)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Las Estrellas Latinoamerica
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(CANAL_DE_LAS_ESTRELLAS)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Tlnovelas
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(TLNOVELAS)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Ve Plus
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(VEPLUSTV)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,RCN Novelas
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(RCN_TELENOVELAS)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Telemundo Internacional
-#EXTGRP:Variedades
-http://antondns.tk/Content/hls_kr/Live/Channel(TELEMUNDO)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Cablenoticias HD
-#EXTGRP:Opinion
-http://antondns.tk/Content/hls_kr/Live/Channel(CABLENOTICIAS_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox News
-#EXTGRP:Opinion
-http://antondns.tk/Content/hls_kr/Live/Channel(FOXNEWS)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Headline News
-#EXTGRP:Opinion
-http://antondns.tk/Content/hls_kr/Live/Channel(HEADLINE_NEWS)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,CNN International
-#EXTGRP:Opinion
-http://antondns.tk/Content/hls_kr/Live/Channel(CNN_INTERNACIONAL)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,CNN En Espanol
-#EXTGRP:Opinion
-http://antondns.tk/Content/hls_kr/Live/Channel(CNN_ESPANOL)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Bloomberg TV
-#EXTGRP:Opinion
-http://antondns.tk/Content/hls_kr/Live/Channel(BLOOMBERG)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,DataiFX TV
-#EXTGRP:Opinion
-http://antondns.tk/Content/hls_kr/Live/Channel(DATA_IFX)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,NTN24
-#EXTGRP:Opinion
-http://antondns.tk/Content/hls_kr/Live/Channel(NTN24)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,France 24
-#EXTGRP:Opinion
-http://antondns.tk/Content/hls_kr/Live/Channel(FRANCE24)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,NHK
-#EXTGRP:Internacional
-http://antondns.tk/Content/hls_kr/Live/Channel(NHK_HD)/Stream(01)/index.m3u8
-
-
-#EXTINF:0,TVE Internacional
-#EXTGRP:Internacional
-http://antondns.tk/Content/hls_kr/Live/Channel(TVE)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,RAI Italia
-#EXTGRP:Internacional
-http://antondns.tk/Content/hls_kr/Live/Channel(RAI)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,TV5 Monde
-#EXTGRP:Internacional
-http://antondns.tk/Content/hls_kr/Live/Channel(TV5)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,BBC World News
-#EXTGRP:Internacional
-http://antondns.tk/Content/hls_kr/Live/Channel(BBC_WORLD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Deutsche Welle (Espanol)
-#EXTGRP:Internacional
-http://antondns.tk/Content/hls_kr/Live/Channel(DW)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Deutsche Welle
-#EXTGRP:Internacional
-http://antondns.tk/Content/hls_kr/Live/Channel(DW_AMERIKA)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Antena 3 Internacional
-#EXTGRP:Internacional
-http://antondns.tk/Content/hls_kr/Live/Channel(ANTENA3)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Caracol Internacional
-#EXTGRP:Internacional
-http://antondns.tk/Content/hls_kr/Live/Channel(CARACOL_INT)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Arirang TV
-#EXTGRP:Internacional
-http://antondns.tk/Content/hls_kr/Live/Channel(ARIRANG)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Al Jazeera
-#EXTGRP:Internacional
-http://antondns.tk/Content/hls_kr/Live/Channel(ALJAZEERA_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Claro Sports
-#EXTGRP:Deportes
-http://antondns.tk/Content/hls_kr/Live/Channel(CLARO_SPORTS_LATAM_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Claro Sports 2
-#EXTGRP:Deportes
-http://antondns.tk/Content/hls_kr/Live/Channel(CLARO_SPORTS_COL_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Golf Channel
-#EXTGRP:Deportes
-http://antondns.tk/Content/hls_kr/Live/Channel(GOLF_CHANNEL_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,ESPN +
-#EXTGRP:Deportes
-http://antondns.tk/Content/hls_kr/Live/Channel(ESPN_PLUS_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,ESPN
-#EXTGRP:Deportes
-http://antondns.tk/Content/hls_kr/Live/Channel(ESPN_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,ESPN 2
-#EXTGRP:Deportes
-http://antondns.tk/Content/hls_kr/Live/Channel(ESPN_2_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,ESPN 3
-#EXTGRP:Deportes
-http://antondns.tk/Content/hls_kr/Live/Channel(ESPN_3_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Sports
-#EXTGRP:Deportes
-http://antondns.tk/Content/hls_kr/Live/Channel(FOX_SPORTS_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Sports (Mexico)
-#EXTGRP:Deportes
-http://antondns.tk/Content/hls_kr/Live/Channel(FOXSP1_MX_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Sports 2
-#EXTGRP:Deportes
-http://antondns.tk/Content/hls_kr/Live/Channel(FOX_SPORTS2_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Sports 2 (Mexico)
-#EXTGRP:Deportes
-http://antondns.tk/Content/hls_kr/Live/Channel(FOXSP2_MX_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Sports 3
-#EXTGRP:Deportes
-http://antondns.tk/Content/hls_kr/Live/Channel(FOX_SPORTS3_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Sports 3 (Mexico)
-#EXTGRP:Deportes
-http://antondns.tk/Content/hls_kr/Live/Channel(FOXSP3_MX_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Win Sports
-#EXTGRP:Deportes
-http://antondns.tk/Content/hls_kr/Live/Channel(WINSPORTS_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Warner TV
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(WARNER_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,AXN
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(AXN_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Canal Sony
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(SONY_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Investigation Discovery HD
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(ID_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Channel
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(FOX_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Channel (Mexico)
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(FOXMX_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Universal TV
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,SyFy
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(SYFYHD_ARG)/Stream(01)/index.m3u8
-
-
-#EXTINF:0,FX
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(FX_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,FX (Mexico)
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(FXMX_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Life
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(FOX_LIFE_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Life (Mexico)
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(FOXLIFE_MX_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,A&amp;E
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(AE_MUNDO_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,TNT Series
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(TNT_SERIES_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,TBS
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(TBS_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Comedy Central
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(COMEDY_CENTRAL_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Sundance TV
-#EXTGRP:Series
-http://antondns.tk/Content/hls_kr/Live/Channel(SUNDANCE_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,TNT
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(TNT_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,FX Movies
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(THE_FILM_ZONE_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,FX Movies (Mexico)
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(FXMMX_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Space
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(SPACE_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,AMC
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(AMC_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Golden Plus
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(GOLDEN_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Cinecanal
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(CINECANAL_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,DHE
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(DHE_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Paramount Channel
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(PARAMOUNT_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Studio Universal
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(STUDIO_UNIVERSAL)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,I.Sat
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(ISAT)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Cinemax
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(CINEMAX)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Golden
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(GOLDEN)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,MultiPremier
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(MULTIPREMIER)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Cine Latino
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(CINELATINO)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Euro Channel
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(EUROCHANNEL)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,De Pelicula
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(DEPELICULA)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Cinema +
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(CINEMAPLUS)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Cinema Dinamita
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(CINEMA_DINAMITA)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,TCM
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(TCM)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Claro Cinema
-#EXTGRP:Cine
-http://antondns.tk/Content/hls_kr/Live/Channel(CLARO_CINEMA)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,HBO
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(HBO_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,HBO (Sub)
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(HBO_HD_SUB)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,HBO Plus
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(HBO_PLUS_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Max Up
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(MAX_UP_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,HBO 2
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(HBO_2_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,HBO Family
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(HBO_FAMILY_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,HBO Signature
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(HBO_SIGNATURE_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Max Prime
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(MAX_PRIME_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Max
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(MAX)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Movies
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(FOXMOVIES_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Series
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(FOX1_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Series (Sub)
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(FOX1_HD_SUB)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Family
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(FOXFAMILY_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Classics
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(FOX_CLASSICS_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Action
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(FOXACTION_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Action (Mexico)
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(FOX_ACTION_MEXICO_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Cinema
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(FOX_CINEMA_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Cinema (Sub)
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(FOX_CINEMA_HD_SUB)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Fox Comedy
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(FOX_COMEDY_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Golden Premier
-#EXTGRP:Premium
-http://antondns.tk/Content/hls_kr/Live/Channel(GOLDEN_PREMIER_HD)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,EWTN
-#EXTGRP:Religiosos
-http://antondns.tk/Content/hls_kr/Live/Channel(EWTN)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,El Sembrador
-#EXTGRP:Religiosos
-http://antondns.tk/Content/hls_kr/Live/Channel(EL_SEMBRADOR)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Cristovision
-#EXTGRP:Religiosos
-http://antondns.tk/Content/hls_kr/Live/Channel(CRISTOVISION)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Enlace TV
-#EXTGRP:Religiosos
-http://antondns.tk/Content/hls_kr/Live/Channel(ENLACE)/Stream(04)/index.m3u8
-
-
-#EXTINF:0,Canal Ibero
-#EXTGRP:Opinion
-http://antondns.tk/Content/hls_kr/Live/Channel(IBERO)/Stream(04)/index.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif", Wobi HD (387)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=8yjw9ejdfqhscfk&lchId=102&format=HLSAD&f=.m3u8
